@@ -2,7 +2,9 @@
 
 Esta es una aplicación de Android desarrollada con Jetpack Compose que permite a los usuarios calcular y visualizar la propina de una cuenta de restaurante.
 
-### RESULTADO:
+## Resultado:
+![Resultado del Codelab](https://raw.githubusercontent.com/A-rar/Android_Codelab_2/main/Resultado_Codelab_2.png)
+
 
 ## Características
 
